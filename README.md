@@ -49,6 +49,10 @@ setx PATH "%PATH%;C:\%%\Python\Python311\"
 
 3. The notebook should now be open
 
+### Static Notebook Via MyBinder
+
+A static version can be accessed here: https://mybinder.org/v2/gmjohnson17/Python_Notebooks/HEAD
+
 ## Contributors
 Author: Graham Johnson
 
