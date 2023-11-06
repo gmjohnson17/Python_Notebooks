@@ -43,7 +43,7 @@ setx PATH "%PATH%;C:\%%\Python\Python311\"
 
 1. Navigate to Google Colab: https://colab.research.google.com/
 
-2. Open the Notebook: File > Open Notebook > Github > Enter this Github Link
+2. Open the Notebook: File > Open Notebook > Github > Enter this Github Link: https://github.com/gmjohnson17/Python_Notebooks
 
 ![image](https://github.com/gmjohnson17/PowerShell_to_Python_Exercise/assets/146036376/904f66af-751d-4d95-9883-1a253ae48338)
 
