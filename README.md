@@ -1,8 +1,7 @@
 # Python_Notebooks
-Python Notebooks
 
 ## Purpose
-This Jupyter notebook was developed for Undergraduate Cyber Warfare (UCWT) students to bridge the gap between basic programming skills learned in the 17A Python course. 
+These Jupyter notebooks were developed for students to learn programming and scripting fundamentals with Python. 
 
 ## Localhost Jupyter Notebook Setup
 
@@ -46,7 +45,7 @@ Note: the %% represents the path to the Python folder. It may vary based on your
 
 ### Static Notebook Via MyBinder
 
-A static version can be accessed here: https://mybinder.org/v2/gmjohnson17/Python_Notebooks/HEAD
+A static version can be accessed here: [https://mybinder.org/v2/gmjohnson17/Python_Notebooks/HEAD](https://mybinder.org/v2/gh/gmjohnson17/Python_Notebooks/HEAD)
 
 ## Contributors
 Author: Graham Johnson
