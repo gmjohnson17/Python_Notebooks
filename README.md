@@ -26,7 +26,7 @@ jupyter lab
 
 If you cannot get the program "pip" or "python" to run, you may need to adjust your Execution path. This can be done with the following command and restarting PowerShell:
 ```
-setx PATH "%PATH%;C:\Users\graha\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\graha\AppData\Local\Programs\Python\Python311\"
+setx PATH "%PATH%;C:\Users\<yourusername>\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\<yourusername>\AppData\Local\Programs\Python\Python311\"
 ```
 
 Note: the %% represents the path to the Python folder. It may vary based on your install location and Python version. If you have Anaconda, Miniconda, or another version of Python installed, you may need to have more execution paths.
