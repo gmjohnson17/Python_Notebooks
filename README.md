@@ -9,7 +9,9 @@ These Jupyter notebooks were developed for students to learn programming and scr
 
 2. Open PowerShell (or the command line interface of your choice)
 
-3. Download or clone this repository to a new folder
+3. Download or clone this repository to a new folder (if you have never used git, there is also an option to download all files in a repository as a .zip file):
+
+![image](https://github.com/gmjohnson17/PowerShell_to_Python_Exercise/assets/146036376/39fcf1e4-6caa-436d-af4c-dc8571d8762c)
 
 4. Navigate to the respository folder in PowerShell (or your favorite CLI)
 
@@ -21,6 +23,8 @@ jupyter lab
 6. You should be able to open the notebook (.ipynb file). 
 
 ![image](https://github.com/gmjohnson17/PowerShell-Lab/assets/146036376/fdbc7cc9-2b06-4663-b160-58129fdd0c3f)
+
+7. Get to coding
 
 ### Troubleshooting Jupyter Notebook Setup
 
